@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-13T17:33:48.120Z",
+  "updatedAt": "2026-11-13T18:26:26.006Z",
   "lastHeartbeatAt": "2026-11-12T20:04:35.888Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -8,8 +8,8 @@
       "rows": {
         "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
           "availability": "OPEN",
-          "seats": 87,
-          "lastSeats": 87,
+          "seats": 86,
+          "lastSeats": 86,
           "lastSeatsOn": "2026-11-13"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
