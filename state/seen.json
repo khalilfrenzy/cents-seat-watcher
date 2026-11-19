@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-19T08:04:56.227Z",
+  "updatedAt": "2026-11-19T09:09:10.609Z",
   "lastHeartbeatAt": "2026-11-18T23:22:49.671Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -8,8 +8,8 @@
       "rows": {
         "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
           "availability": "OPEN",
-          "seats": 75,
-          "lastSeats": 75,
+          "seats": 74,
+          "lastSeats": 74,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
@@ -25,7 +25,7 @@
           "lastSeatsOn": "2026-11-18"
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-          "availability": "FULL",
+          "availability": "NOT_OPEN",
           "seats": null,
           "lastSeats": null,
           "lastSeatsOn": null
@@ -33,8 +33,8 @@
         "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
           "availability": "FULL",
           "seats": null,
-          "lastSeats": null,
-          "lastSeatsOn": null
+          "lastSeats": 2,
+          "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Università degli studi di Teramo|TERAMO|26/11/2026": {
           "availability": "FULL",
@@ -45,13 +45,13 @@
         "CENT@HOME|Università Ca' Foscari Venezia|VENEZIA|26/11/2026": {
           "availability": "FULL",
           "seats": null,
-          "lastSeats": null,
-          "lastSeatsOn": null
+          "lastSeats": 1,
+          "lastSeatsOn": "2026-11-19"
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|17/12/2026": {
           "availability": "OPEN",
-          "seats": 33,
-          "lastSeats": 33,
+          "seats": 32,
+          "lastSeats": 32,
           "lastSeatsOn": "2026-11-19"
         },
         "CENT@HOME|Sapienza Università di Roma|ROMA|17/12/2026": {
@@ -59,6 +59,12 @@
           "seats": null,
           "lastSeats": null,
           "lastSeatsOn": null
+        },
+        "CENT@HOME|Politecnico di Milano|MILANO|17/12/2026": {
+          "availability": "FULL",
+          "seats": null,
+          "lastSeats": 37,
+          "lastSeatsOn": "2026-11-19"
         },
         "CENT@UNI|Politecnico di Torino|TORINO|12/01/2027": {
           "availability": "FULL",
