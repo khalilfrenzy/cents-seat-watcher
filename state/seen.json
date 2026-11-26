@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-26T17:22:38.823Z",
+  "updatedAt": "2026-11-26T18:14:47.647Z",
   "lastHeartbeatAt": "2026-11-26T04:53:48.170Z",
   "consecutiveFailures": 0,
   "calendars": {
@@ -26,7 +26,7 @@
         },
         "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
           "availability": "EXPIRED",
-          "seats": 0,
+          "seats": 11,
           "lastSeats": 47,
           "lastSeatsOn": "2026-11-19"
         },
